@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2026-generating-impact-summaries",
+  "versions": [
+    {
+      "commit": "2ef0c424b2defdc0f114a4110c4bca8d1489da02",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:20:48.634282+00:00"
+    }
+  ]
+}
