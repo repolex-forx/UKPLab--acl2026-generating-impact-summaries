@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2026-generating-impact-summaries/commit/2ef0c424b2defdc0f114a4110c4bca8d1489da02",
       "git:hexsha": "2ef0c424b2defdc0f114a4110c4bca8d1489da02",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T12:20:48.540584+00:00"
     }
   ]
 }
